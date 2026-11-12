@@ -66,6 +66,5 @@ Deployed address: **not deployed** (add it here after deploying).
 
 ## Time spent and AI tools
 
-- Time spent: _fill in your actual time_ (time box was about 5 hours).
-- AI tools: Claude Code (Claude Sonnet 5.5) wrote the first drafts of the contract, tests, scripts and docs.
-  Everything was reviewed by the author; mutation checks were used to confirm the tests catch real bugs.
+- **Time spent: about 3.5 hours** in total, covering contract writing, test cases, scenario testing and bug fixing.
+- **AI tool: Claude (Claude Code, Anthropic).** Used for first drafts of the contract, unit/fuzz/invariant tests, scripts and docs, and for scenario testing and bug fixing (including mutation checks to confirm the tests catch real bugs).
