@@ -64,7 +64,3 @@ npx hardhat verify --network arbitrumSepolia <address> <owner> <feeBps> <feeReci
 
 Deployed address: **not deployed** (add it here after deploying).
 
-## Time spent and AI tools
-
-- **Time spent: about 3.5 hours** in total, covering contract writing, test cases, scenario testing and bug fixing.
-- **AI tool: Claude (Claude Code, Anthropic).** Used for first drafts of the contract, unit/fuzz/invariant tests, scripts and docs, and for scenario testing and bug fixing (including mutation checks to confirm the tests catch real bugs).
